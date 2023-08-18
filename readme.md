@@ -1,4 +1,4 @@
-# Project : Natural Language Processing
+# Project: Natural Language Processing
 
 ## Introduction
 Sentiment analysis has become a key tool for businesses and organizations to comprehend the attitudes and opinions expressed by individuals regarding their products, services, or content in an increasingly digitalized world. Sentiment analysis provides effective extraction of sentiment patterns from user-generated content on social media platforms, online reviews, and discussion forums, allowing organizations to make data-driven decisions. This post will highlight a machine learning study that uses fine-tuning approaches on the Hugging Face platform to classify emotion as positive, negative, or neutral.
@@ -36,7 +36,6 @@ Other libraries essential for fine tuning proojects are
 1. [Introduction to NLP: Playlist](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
 <!-- 1. [](https://www.youtube.com/)
 1. [](https://www.youtube.com/)
-
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
