@@ -1,35 +1,26 @@
-# Project : Natural Language Processing
+# 🚀 Friendly Web Interface for ML Projects with Gradio 🚀
 
-## Description
+There are many ways to make web interfaces to allow interaction with Machine Learning models and we will cover one of them.
 
-This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. 
+# Introduction
+The global impact of the COVID-19 pandemic has been substantial, leading to repercussions in economies, societies, and the lives of people worldwide. A major endeavor undertaken to address this crisis has been the creation and dissemination of COVID-19 vaccines. These vaccines have demonstrated remarkable effectiveness in preventing severe illness and fatalities. However, misinformation and contentious debates have also emerged regarding their safety, efficacy, and equitable distribution.
 
-## Assignments
-Find the list of assignments below:
-- [Zindi NLP Challenge](/zindi_challenge/)
 
-## Setup
-Install the required packages to be able to run the evaluation locally.
+## Summary
+| Code      | Name        | Published Article |  Deployed App |
+|-----------|-------------|:-------------:|------:|
+| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here](https://medium.com/@acheampongfrancis95/analyzing-public-opinion-towards-the-covid19-vaccines-using-pretrained-distilbert-model-d0979aa062aa) | [Check on the App](http://127.0.0.1:7865) |
 
-You need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's root (`root :: repo_name> ...`)  follow the steps below:
+## Project Description
 
-- Windows:
-        
-        python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+To execute a sentiment analysis of COVID-19 vaccine tweets, we can leverage pre-trained models from Huggingface. These models have undergone training on vast amounts of text data and can be fine-tuned for various natural language processing (NLP) tasks, including sentiment analysis. By assembling a dataset of tweets relevant to COVID-19 vaccines, we can utilize these pre-trained models to categorize the tweets into positive, negative, or neutral sentiments.
 
-- Linux & MacOs:
-        
-        python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
 
-The both long command-lines have a same structure, they pipe multiple commands using the symbol **;** but you may manually execute them one after another.
+## Contributing
 
-1. **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
-2. **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
-3. **Upgrade Pip, the installed libraries/packages manager** to have the up-to-date version that will work correctly;
-4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
+Feel free to make a PR or report an issue 😃.
 
-**NB:** For MacOs users, please install `Xcode` if you have an issue.
+Oh, one more thing, please do not forget to put a description when you make your PR 🙂.
 
 ## Author
-
 CYCUS MURUMBA SITUMA
