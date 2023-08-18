@@ -37,10 +37,11 @@ Other libraries essential for fine tuning proojects are
 <!-- 1. [](https://www.youtube.com/)
 1. [](https://www.youtube.com/)
 
+
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here]((https://medium.com/@cycusmurumba/sentiment-analysis-models-for-covid-vaccine-tweet-sentiments-ae6dcc51631e)) | [Check on the App](http://127.0.0.1:7865)
+| P5 | Sentiment Analysis/Public Perceiption for tweets on COVID 19|  [Read more here](https://medium.com/@cycusmurumba/sentiment-analysis-models-for-covid-vaccine-tweet-sentiments-ae6dcc51631e) | [Check on the App](http://127.0.0.1:7865) |
 
 ## Appreciation
 I would like to appreciate Azubi Africa staff, for their guidance throughout the project.
