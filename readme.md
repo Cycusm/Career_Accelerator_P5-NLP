@@ -28,16 +28,6 @@ Other libraries essential for fine tuning proojects are
 3. datasets
 4. gradio /Streamlit
 
-## Ressources
-1. [Quick intro to NLP](https://www.youtube.com/watch?v=CMrHM8a3hqw)
-1. [Getting Started With Hugging Face in 15 Minutes](https://www.youtube.com/watch?v=QEaBAZQCtwE)
-1. [Fine-tuning a Neural Network explained](https://www.youtube.com/watch?v=5T-iXNNiwIs)
-1. [Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment Prediction | NLP](https://www.youtube.com/watch?v=zcW2HouIIQg)
-1. [Introduction to NLP: Playlist](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
-<!-- 1. [](https://www.youtube.com/)
-1. [](https://www.youtube.com/)
-
-
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
